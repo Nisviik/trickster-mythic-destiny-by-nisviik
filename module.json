@@ -6,6 +6,8 @@
     "minimum": "12",
     "verified": "12"
   },
+  "manifest":"https://raw.githubusercontent.com/Nisviik/trickster-mythic-destiny-by-nisviik/main/module.json",
+  "download":"https://github.com/Nisviik/trickster-mythic-destiny-by-nisviik/archive/refs/tags/1.0.zip",
   "description": "Contains the Mythic Trickster, more general mythic feats, mythic items and magic by Nisviik.",
   "url": "https://www.pathfinderinfinite.com/product/503280/Trickster-Mythic-Destiny",
   "authors": [
