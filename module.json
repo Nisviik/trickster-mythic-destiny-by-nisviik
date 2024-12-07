@@ -1,0 +1,63 @@
+{
+  "id": "trickster-mythic-destiny-by-nisviik",
+  "title": "Trickster Mythic Destiny by Nisviik",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Contains the Mythic Trickster, more general mythic feats, mythic items and magic by Nisviik.",
+  "url": "https://www.pathfinderinfinite.com/product/503280/Trickster-Mythic-Destiny",
+  "authors": [
+    {
+      "name": "Nisviik",
+      "email": "nisviik.homebrew@gmail.com",
+      "url": "https://www.pathfinderinfinite.com/browse.php?author=nisviik",
+      "discord": "nisviik",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "trickster-mythic-destiny-journals",
+      "label": "Trickster Mythic Destiny Journals",
+      "path": "packs/trickster-mythic-destiny-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "trickster-mythic-destiny-feats-and-items",
+      "label": "Trickster Mythic Destiny Feats and Items",
+      "path": "packs/trickster-mythic-destiny-feats-and-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Nisviik Homebrew",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+          {
+              "name": "Trickster Mythic Destiny",
+              "sorting": "a",
+              "packs": [
+                  "trickster-mythic-destiny-feats-and-items",
+                  "trickster-mythic-destiny-journals"
+              ]
+          }
+      ]
+  }
+  ]
+}
